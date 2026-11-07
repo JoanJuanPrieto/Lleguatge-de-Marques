@@ -5,6 +5,7 @@ A1_ex5_Juan_Joan: https://joanjuanprieto.github.io/Lleguatge-de-Marques/Activita
 ---
 ### Activitat2:
 A2ex1: https://joanjuanprieto.github.io/Lleguatge-de-Marques/Activitat2.%20Material/A2ex1.html
+
 A2ex3: https://joanjuanprieto.github.io/Lleguatge-de-Marques/Activitat2.%20Material/A2ex3.html
 
 ---
