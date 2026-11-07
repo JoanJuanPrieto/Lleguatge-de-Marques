@@ -1,5 +1,5 @@
 # Lleguatge-de-Marques
-Activitat1:
+## Activitat1:
 A1_ex5_Juan_Joan: https://joanjuanprieto.github.io/Lleguatge-de-Marques/Activitat1.%20Material/A1_ex5_Juan_Joan.html
 
 Activitat2:
