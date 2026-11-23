@@ -1,6 +1,6 @@
 # Lleguatge-de-Marques
 ### Activitat1:
-References: https://joanjuanprieto.github.io/Lleguatge-de-Marques/Activitat1.%20Material/index.html
+REFERÈNCIES: https://joanjuanprieto.github.io/Lleguatge-de-Marques/Activitat1.%20Material/index.html
 
 ARA.CAT: https://joanjuanprieto.github.io/Lleguatge-de-Marques/Activitat1.%20Material/A1_ex5_Juan_Joan.html
 
