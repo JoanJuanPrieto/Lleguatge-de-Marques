@@ -12,6 +12,7 @@ body{
   height: 278px;
   width: 362px;
   position: absolute;
+  top: 25%;
   left: 50%;
   transform: translateX(-50%);
   z-index: 100;
