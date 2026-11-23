@@ -17,6 +17,17 @@ body{
   z-index: 100;
 }
 
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 2em;
+  color: red;
+  text-shadow: 2px 2px 2px #aaa;
+  margin-bottom: 30px;
+  background: url('images/headbg.png') top left repeat;
+  padding: 10px 0;
+}
+
 #references cite {
   margin: 1em 0 0 3em;
   text-indent: -3em;
@@ -24,5 +35,3 @@ body{
   font-style: normal;
   padding-right: 3px;
 }
-
-
