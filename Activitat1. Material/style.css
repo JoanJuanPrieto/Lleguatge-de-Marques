@@ -7,17 +7,6 @@ body{
   font-family: Verdana, Arial, sans-serif; font-size: 1em;
 }
 
-#bggraphic {
-  background: url('images/pen.png') top left no-repeat;
-  height: 278px;
-  width: 362px;
-  position: absolute;
-  top: 25%;
-  left: 50%;
-  transform: translateX(-50%);
-  z-index: 100;
-}
-
 h1 {
   text-align: center;
   text-transform: uppercase;
