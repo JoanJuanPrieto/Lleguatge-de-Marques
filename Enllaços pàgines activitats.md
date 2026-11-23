@@ -16,4 +16,4 @@ Història de One Piece Part2: https://joanjuanprieto.github.io/Lleguatge-de-Marq
 
 ---
 ### Activitat4:
-HOTEL TERROR: https://joanjuanprieto.github.io/Lleguatge-de-Marques/Activitat4.%20Material/index.html
+HOTEL DEL TERROR: https://joanjuanprieto.github.io/Lleguatge-de-Marques/Activitat4.%20Material/index.html
